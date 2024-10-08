@@ -1,0 +1,39 @@
+version: '3.4'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    environment:
+      POSTGRES_USER: MTT
+      POSTGRES_PASSWORD: MTT
+      POSTGRES_DB: MTT
+    ports:
+      - "5432:5432"
+  localstack:
+    image: localstack/localstack:latest
+    container_name: localstack
+    ports:
+      - "4566:4566"  # Main LocalStack port
+      - "4571:4571"  # S3 port
+    environment:
+      - SERVICES=s3,lambda,dynamodb,cloudformation,apigateway
+      - DEBUG=1
+      - DATA_DIR=/tmp/localstack/data
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"  # RabbitMQ main port
+      - "15672:15672"  # RabbitMQ management UI port
+    environment:
+      - RABBITMQ_DEFAULT_USER=MTT
+      - RABBITMQ_DEFAULT_PASS=MTT
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: MTT
+      MONGO_INITDB_ROOT_PASSWORD: MTT
