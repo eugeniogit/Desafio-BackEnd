@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/Nd97m3SRuH81GYSEuhWdF9r/0TPwYHJDPNYB+VsZoDMCh2p/YMAKrsPDM73XXqzJKzkSVSJwNAtrZFYTfeqg==",
+  "dgSpecHash": "no9uAEAFYMFw22DmtjvlUw8Lerwic1Oq100l/im1+AEKrRvybDHHBPxN0SuWuyiS7HtGijQpj56A/60GwRgoNQ==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj",
+  "projectFilePath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eugen\\.nuget\\packages\\awssdk.core\\3.7.400.30\\awssdk.core.3.7.400.30.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.301\\awssdk.extensions.netcore.setup.3.7.301.nupkg.sha512",

@@ -1,8 +1,0 @@
-{
-  "MTT.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Git\\poc\\MTT\\MTT.Application",
-  "MTT.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Git\\poc\\MTT\\MTT.Domain",
-  "MTT.Infra.Broker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Git\\poc\\MTT\\MTT.Infra.Broker",
-  "MTT.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Git\\poc\\MTT\\MTT.Infra.Data",
-  "MTT.Infra.Storage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Git\\poc\\MTT\\MTT.Infra.Storage",
-  "MTT.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Git\\poc\\MTT\\MTT.WebApi"
-}

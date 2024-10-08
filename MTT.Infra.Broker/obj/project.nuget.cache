@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Z88zu9zkXDpaYiT43C5mDTJP+ljcrETKN0B4aXXBatOrOgYiCRmx6FDMT4cF9+Bfp2XiV1F3LwpuLj1CIrSQA==",
+  "dgSpecHash": "TfzyoPoy6ERNZO2ZW8l2T0RAcprF8orphYD/xLiM3kojhDWWeXV73qH5qnQYQwzsBcJp+Os7n5yXHreFU1/Ncw==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj",
+  "projectFilePath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eugen\\.nuget\\packages\\fluentresults\\3.16.0\\fluentresults.3.16.0.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",

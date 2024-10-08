@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj": {}
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj",
         "projectName": "MTT.Application.UnitTest",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application.UnitTest\\MTT.Application.UnitTest.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Application.UnitTest\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Git\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj",
         "projectName": "MTT.Application",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Application\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,8 +124,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
         "projectName": "MTT.Domain",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -252,14 +252,14 @@
         }
       }
     },
-    "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj",
         "projectName": "MTT.Infra.Broker",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -276,8 +276,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
               }
             }
           }
@@ -330,14 +330,14 @@
         }
       }
     },
-    "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj",
         "projectName": "MTT.Infra.Data",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Data\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -354,8 +354,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
               }
             }
           }
@@ -408,14 +408,14 @@
         }
       }
     },
-    "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj",
         "projectName": "MTT.Infra.Storage",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -432,8 +432,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
               }
             }
           }
@@ -482,14 +482,14 @@
         }
       }
     },
-    "C:\\Git\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj",
         "projectName": "MTT.WebApi",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.WebApi\\MTT.WebApi.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.WebApi\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -506,20 +506,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Application\\MTT.Application.csproj"
               },
-              "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj"
               },
-              "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Broker\\MTT.Infra.Broker.csproj"
               },
-              "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Data\\MTT.Infra.Data.csproj"
               },
-              "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj": {
-                "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj"
+              "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj": {
+                "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Infra.Storage\\MTT.Infra.Storage.csproj"
               }
             }
           }
@@ -554,6 +554,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             }
           },
           "imports": [

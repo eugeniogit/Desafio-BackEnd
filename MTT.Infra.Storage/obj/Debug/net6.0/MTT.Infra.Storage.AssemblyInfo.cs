@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MTT.Infra.Storage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919d342820c0bb30f0f29c4ae1380f5201ae3999")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+172856e16bdefdd2f76c275509dfc318d3c6c382")]
 [assembly: System.Reflection.AssemblyProductAttribute("MTT.Infra.Storage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MTT.Infra.Storage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

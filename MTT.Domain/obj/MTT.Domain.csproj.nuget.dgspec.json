@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {}
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
+    "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
         "projectName": "MTT.Domain",
-        "projectPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
+        "projectPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\MTT.Domain.csproj",
         "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Desafio-BackEnd\\MTT.Domain\\obj\\",
+        "outputPath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",

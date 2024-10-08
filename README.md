@@ -22,7 +22,7 @@ OBS 1.: O banco de dados será criado durante o start do serviço via Migration.
 
 - Não foi possível concluir a integração com o S3 bucket por conta de alguns desafios na comunicação do localstack, mas o código de implementação foi feito e está comentado na classe S3StorageService
 
-- Por conta do prazo, não foi possível concluir 100% dos testes de integrações, logs, e documentação da api pela biblioteca do swagger.
+- Por conta do prazo, não foi possível concluir 100% dos testes de integrações e logs.
 
 - Algumas dúvidas surgiram nos requisitos das datas das reservas, mas deu pra pegar a visão.
 

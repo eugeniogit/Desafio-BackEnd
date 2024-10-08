@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UrTigo344IZhdXrxEu36bA39E2jqRZP0m+SMeIYoaoFpx/u2G81j5kjw9i2dqmYj35RR6QVHzXKZrTwypdfhgQ==",
+  "dgSpecHash": "G8HRUx/TO82rwuOIsrtZD7xQqANd2eGQuwvaicrvZWgHZGhZ7raguQg7w4DN6aDDEFSbHLFUb2NFEX0aI/TFyQ==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Desafio-BackEnd\\MTT.MotoWorker\\MTT.MotoWorker.csproj",
+  "projectFilePath": "C:\\Git\\Meu\\Desafio-BackEnd\\MTT.MotoWorker\\MTT.MotoWorker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eugen\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
